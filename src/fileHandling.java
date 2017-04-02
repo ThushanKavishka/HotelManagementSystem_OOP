@@ -37,7 +37,7 @@ public class fileHandling {
 
     }
 
-    // read from file
+    // read from file..
     public String read(String roomNo) {
         String str = "";
         try {
