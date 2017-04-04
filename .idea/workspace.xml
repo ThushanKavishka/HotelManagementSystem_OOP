@@ -28,8 +28,8 @@
       <file leaf-file-name="fileHandling.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/fileHandling.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="359">
-              <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+            <state relative-caret-position="308">
+              <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -442,6 +442,14 @@
       <workItem from="1469361724156" duration="667000" />
       <workItem from="1469912443522" duration="22000" />
     </task>
+    <task id="LOCAL-00001" summary="Change variable in fileHandling class line 42">
+      <created>1491100821993</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1491100821993</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -488,6 +496,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Change variable in fileHandling class line 42" />
+    <option name="LAST_COMMIT_MESSAGE" value="Change variable in fileHandling class line 42" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -620,8 +632,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/fileHandling.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="39" column="23" selection-start-line="39" selection-start-column="23" selection-end-line="39" selection-end-column="23" />
+        <state relative-caret-position="308">
+          <caret line="24" column="25" selection-start-line="24" selection-start-column="25" selection-end-line="24" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

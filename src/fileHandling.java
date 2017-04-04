@@ -22,7 +22,7 @@ public class fileHandling {
         //   System.out.println("10 Files(Rooms)Created!");   
     }
 
-    //write to the file
+    //write to the file..
     public void write(String roomNo, String data) {
         try {
 
