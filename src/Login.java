@@ -41,7 +41,7 @@ public class Login {
 
                 String var = "";
 
-                //Create Main Menu..
+                //Create Main Menu...
                 System.out.println(" V - Display Rooms");
                 System.out.println(" A - Add Customers");
                 System.out.println(" F - Find Rooms");
