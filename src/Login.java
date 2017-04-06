@@ -27,7 +27,7 @@ public class Login {
         if ((username.equalsIgnoreCase("1")) && ((password.equalsIgnoreCase("1")))) {
             System.out.println("Login Successfully!!!");
 
-            //Creating 10 rooms
+            //Creating 10 rooms..
             fileHandling handl = new fileHandling();
             handl.createRooms();
 
