@@ -18,7 +18,7 @@ public class Rooms {
             System.out.print("Press 'L' To get Confirm: ");
             getConfirm = sc.next();
             if (getConfirm.equalsIgnoreCase("L")) {
-                //read the each file and get values
+                //read the each file and get values..
                 for (int i = 1; i <= 10; i++) {
                     displayRoom = handler.read((Integer.toString(i)));
                     displayRooms = displayRoom.split("/");
