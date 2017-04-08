@@ -50,8 +50,8 @@
       <file leaf-file-name="Rooms.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Rooms.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+            <state relative-caret-position="272">
+              <caret line="87" column="5" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -477,7 +477,14 @@
       <option name="project" value="LOCAL" />
       <updated>1491446806374</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Commenting in Rooms class">
+      <created>1491533272538</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1491533272538</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -530,7 +537,8 @@
     <MESSAGE value="Change variable in fileHandling class line 14" />
     <MESSAGE value="Change variable in Login class line 14" />
     <MESSAGE value="Commenting in Login class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commenting in Login class" />
+    <MESSAGE value="Commenting in Rooms class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commenting in Rooms class" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -665,8 +673,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Rooms.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="20" column="54" selection-start-line="20" selection-start-column="54" selection-end-line="20" selection-end-column="54" />
+        <state relative-caret-position="272">
+          <caret line="87" column="5" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
           <folding />
         </state>
       </provider>
